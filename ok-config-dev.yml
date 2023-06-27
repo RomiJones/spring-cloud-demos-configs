@@ -2,3 +2,5 @@ config:
   info: c.biancheng.net
   version: 1.0
   name: zengsheng
+hehe:
+  title:exception hehe
